@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_symbolist_colonial_aftermath",
+  "title": "The Grammar of Silence",
+  "tagline": "A woman steals a passage to the heart of the empire, armed with a book of forgotten sea-magic that maps the silences left by colonial theft.",
+  "target_words": 70000,
+  "actual_words": 66868,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Palimpsest Identity",
+    "Decolonial Cartography",
+    "Feminist Symbolist Magic",
+    "Hauntology of the Archive"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Palimpsest",
+      "words": 2786
+    },
+    {
+      "ch": 2,
+      "title": "The Belly of the Beast",
+      "words": 2786
+    },
+    {
+      "ch": 3,
+      "title": "The Engine-Room Confessional",
+      "words": 2786
+    },
+    {
+      "ch": 4,
+      "title": "Gibraltar",
+      "words": 2786
+    },
+    {
+      "ch": 5,
+      "title": "The First Symbol",
+      "words": 2786
+    },
+    {
+      "ch": 6,
+      "title": "Ghost's Warning",
+      "words": 2786
+    },
+    {
+      "ch": 7,
+      "title": "The Captain's Ledger",
+      "words": 2786
+    },
+    {
+      "ch": 8,
+      "title": "Storm Grammar",
+      "words": 2786
+    },
+    {
+      "ch": 9,
+      "title": "The Drowned Library",
+      "words": 2786
+    },
+    {
+      "ch": 10,
+      "title": "Kanoa's Story",
+      "words": 2786
+    },
+    {
+      "ch": 11,
+      "title": "Channel Fever",
+      "words": 2786
+    },
+    {
+      "ch": 12,
+      "title": "The Thames Mouth",
+      "words": 2786
+    },
+    {
+      "ch": 13,
+      "title": "Ashore in Silence",
+      "words": 2786
+    },
+    {
+      "ch": 14,
+      "title": "The Reading Room",
+      "words": 2786
+    },
+    {
+      "ch": 15,
+      "title": "A Sister in the Fog",
+      "words": 2786
+    },
+    {
+      "ch": 16,
+      "title": "The Collector",
+      "words": 2786
+    },
+    {
+      "ch": 17,
+      "title": "Unwrapping the Truth",
+      "words": 2786
+    },
+    {
+      "ch": 18,
+      "title": "The Performance",
+      "words": 2786
+    },
+    {
+      "ch": 19,
+      "title": "Burning the Map",
+      "words": 2786
+    },
+    {
+      "ch": 20,
+      "title": "The Women Who Walked",
+      "words": 2786
+    },
+    {
+      "ch": 21,
+      "title": "Counter-Archive",
+      "words": 2786
+    },
+    {
+      "ch": 22,
+      "title": "The Final Silence",
+      "words": 2786
+    },
+    {
+      "ch": 23,
+      "title": "A New Tide",
+      "words": 2786
+    },
+    {
+      "ch": 24,
+      "title": "Epilogue: The Unwritten Sea",
+      "words": 2786
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'reads' the history of an object through touch, discovering a colonial erasure.",
+      "Create a monologue for Kanoa about a tattoo that holds a memory of a lost island craft.",
+      "Draft a letter from Helena to her grandmother, written after her first encounter with the imperial archive.",
+      "Imagine a meeting of the 'Women Who Walked on Water' in a liminal space between wave crests."
+    ],
+    "technical": [
+      "Build a web experience that layers a colonial map with a 'wave book' overlay of indigenous place names and stories.",
+      "Design a generative art piece where user-input text (a colonial record) is gradually eroded and replaced by wave-like symbols."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Virginia Woolf (for stream of consciousness & feminist critique of institutions)",
+      "M. NourbeSe Philip (for poetry of archival silence & decolonial rupture)",
+      "Hayao Miyazaki (for mythic symbolism & empathetic connection with non-human forces)",
+      "Derek Walcott (for postcolonial maritime imagery & the tension between the European canon and Caribbean voice)"
+    ]
+  },
+  "cover_prompt": "A young woman with a determined gaze and a face that is a living palimpsest of erased histories stands on the prow of a spectral, weathered schooner, her hands gripping a massive, leather-bound book whose pages are not paper but woven kelp and etched mother-of-pearl, from which glowing, sigil-like sea routes made of bioluminescent plankton and ghostly coral rise into the air, mapping invisible currents and stolen geographies, in a mist-shrouded sea at the liminal hour between dusk and night, where the silhouettes of decaying colonial galleons loom half-sunk like forgotten teeth and the water reflects not stars but the faint, echoing faces of ancestors, in the atmospheric style of Zdzisław Beksiński's haunting surrealism combined with the symbolic, mythic weight of Remedios Varo's intricate paintings and the textured, archival melancholy of Kerry James Marshall's historical depth, book cover framing, centered and intimate portrait composition viewed from a low, dramatic angle looking up at the woman as the magic unfolds around her, cinematic chiaroscuro lighting with deep, velvety shadows pierced by ethereal glows of plankton-blue, tarnished-silver, and deep indigo, with accents of weathered parchment and rusted iron, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
